@@ -1,0 +1,10 @@
+// Gets rid of every style on the page and adds these
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@import "./song";
+
+@import "./player";
