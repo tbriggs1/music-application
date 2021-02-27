@@ -35,6 +35,10 @@
   }
 }
 
+.selected {
+  background: rgb(168, 188, 206);
+}
+
 * {
   scrollbar-width: thin;
   scrollbar-color: rgba(155, 155, 155, 0.5) transparent;
